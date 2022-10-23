@@ -1,6 +1,6 @@
 type Props = {};
 
-const CountryTracks = (props: Props) => {
+const CountryTracks: React.FC = (props: Props) => {
   return <div>CountryTracks</div>;
 };
 
