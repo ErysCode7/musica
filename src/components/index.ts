@@ -1,4 +1,4 @@
-import ArtistCard from "./ArtisTCard";
+import ArtistCard from "./ArtistCard";
 import DetailsHeader from "./DetailsHeader";
 import Error from "./Error";
 import Loader from "./Loader";
