@@ -1,6 +1,6 @@
 type Props = {};
 
-const ArtisCard = (props: Props) => {
+const ArtisCard: React.FC = () => {
   return <div>ArtisCard</div>;
 };
 
